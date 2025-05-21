@@ -259,7 +259,9 @@ ol {
 .button {
   display: block;
   align-items: center;
-  font-size: 16px;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 700;
   color: currentColor;
   line-height: 1;
   border: 1px solid currentColor;
